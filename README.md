@@ -27,4 +27,5 @@ You can but you need to write the credits first in the README! 😄
 
 ## About
 
-This repository was created by @TechySC23 [TechySC](https://github.com/TechySC) [![TechySC](https://img.shields.io/badge/TechySC-TechySC)]
+This repository was created by ![@TechySC](https://img.shields.io/badge/TechySC-TechySC) [My Profile](https://github.com/TechySC)
+
