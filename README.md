@@ -13,10 +13,18 @@ The repository contains the following:
 - HTML
 - CSS
 
-## Getting Started
+## Downloading the files
 
 If you directly want to download the code, please checkout the Releases tab.
 
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request.
+
+## Want to use the Code?
+
+You can but you need to write the credits first in the README! 😄
+
+## About
+
+This repository was created by [TechySC](https://github.com/TechySC) or @TechySC23! (https://img.shields.io/badge/TechySC-TechySC)<https://github.com/TechySC>
