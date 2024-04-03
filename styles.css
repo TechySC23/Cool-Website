@@ -1,77 +1,77 @@
 * {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
 }
 
 body {
-  font-family: "Verdana", Helvetica, 'Trebuchet MS', Arial, sans-serif;
-  background-color: #ffffff;
+	font-family: "Verdana", Helvetica, 'Trebuchet MS', Arial, sans-serif;
+	background-color: #ffffff;
 }
 
 h1 {
-  font-family: 'Trebuchet MS', sans-serif;
-  color: #e3e3e3;
-  font-size: 1.75rem;
-  padding: .85rem .80rem;
-  background-color: #7a94a2;
+	font-family: 'Trebuchet MS', sans-serif;
+	color: #e3e3e3;
+	font-size: 1.75rem;
+	padding: .85rem .80rem;
+	background-color: #7a94a2;
 }
 
 p {
-  font-family: "Verdana", "Helvetica", sans-serif;
-  font-weight: 300;
-  font-size: 1.25rem;
-  color: #000000;
-  padding: 1rem;
+	font-family: "Verdana", "Helvetica", sans-serif;
+	font-weight: 300;
+	font-size: 1.25rem;
+	color: #000000;
+	padding: 1rem;
 }
 
 .container {
-  width: 100%;
+	width: 100%;
 }
 
 div {
-  display: inline-grid;
-  justify-content: space-around;
-  font-size: 150%;
-  width: 67vw;
-  height: 25vh;
-  align-items: center;
-  margin: 1rem;
-  color: #ffffff;
+	display: inline-grid;
+	justify-content: space-around;
+	font-size: 150%;
+	width: 67vw;
+	height: 25vh;
+	align-items: center;
+	margin: 1rem;
+	color: #ffffff;
 }
 
 #box1 {
-  background-color: #00ff00;
-  border-radius: 1rem;
-  border: 2px solid #000000;
+	background-color: #00ff00;
+	border-radius: 1rem;
+	border: 2px solid #000000;
 }
 
 #box2 {
-  background-color: #ff9100;
-  border-radius: 1rem;
-  border: 2px solid #000000;
+	background-color: #ff9100;
+	border-radius: 1rem;
+	border: 2px solid #000000;
 }
 
 #f3 {
-  background-color: #ffd000;
-  border-radius: 1rem;
-  border: 2px solid #000000;
+	background-color: #ffd000;
+	border-radius: 1rem;
+	border: 2px solid #000000;
 }
 
 #f4 {
-  background-color: #00ddff;
-  border-radius: 1rem;
-  border: 2px solid #000000;
+	background-color: #00ddff;
+	border-radius: 1rem;
+	border: 2px solid #000000;
 }
 
 /* Todo: Use Grid Layout to create the "non-sticky" footer */
 
 footer {
-  color: #000000;
-  background-color: #ffffff;
-  bottom: 0px;
-  padding: 0.75rem 0;
-  width: 100%;
-  position: fixed;
-  text-align: center;
+	color: #000000;
+	background-color: #ffffff;
+	bottom: 0px;
+	padding: 0.75rem 0;
+	width: 100%;
+	position: fixed;
+	text-align: center;
 }
