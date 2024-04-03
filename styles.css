@@ -32,6 +32,7 @@ p {
 div {
   display: inline-grid;
   justify-content: space-around;
+  font-size: 150%;
   width: 67vw;
   height: 25vh;
   align-items: center;
@@ -40,7 +41,7 @@ div {
 }
 
 #box1 {
-  background-color: #ff9100;
+  background-color: #00ff00;
   border-radius: 1rem;
   border: 2px solid #000000;
 }
@@ -52,13 +53,13 @@ div {
 }
 
 #f3 {
-  background-color: #ff9100;
+  background-color: #ffd000;
   border-radius: 1rem;
   border: 2px solid #000000;
 }
 
 #f4 {
-  background-color: #ff9100;
+  background-color: #00ddff;
   border-radius: 1rem;
   border: 2px solid #000000;
 }
